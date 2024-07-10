@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎈 Estudante de Ciência da Computação na UnB<br>
+# 🎈 About Me:
+Estudante de Ciência da Computação na UnB<br>
 
 
 # 💻 Tech Stack:
