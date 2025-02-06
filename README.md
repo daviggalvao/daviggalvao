@@ -9,17 +9,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daviggalvao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/SojerioCeni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
