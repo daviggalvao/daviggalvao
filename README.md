@@ -4,10 +4,6 @@
 
 ###
 
-<p align="center">A passionate developer from Brazil</p>
-
-###
-
 <div align="center">
   <h3 align="center">📫 Connect with me: <a href='mailto:daviguerra27@gmail.com'>daviguerra27@gmail.com</a></h3>
     <div align="center">
